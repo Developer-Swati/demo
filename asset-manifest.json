@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/My-Portfolio/static/css/main.402e73d1.css",
+    "main.js": "/My-Portfolio/static/js/main.f858fb70.js",
+    "static/media/AWS-cloud-comp-cer.pdf": "/My-Portfolio/static/media/AWS-cloud-comp-cer.cf837e967256371c53a0.pdf",
+    "static/media/mypic.png": "/My-Portfolio/static/media/mypic.8925d246fce4674b946a.png",
+    "static/media/AWS_AI.PNG": "/My-Portfolio/static/media/AWS_AI.e1afb754ac717bea168f.PNG",
+    "static/media/Updated-Resume.pdf": "/My-Portfolio/static/media/Updated-Resume.3d6ca0f2f776f29bfa81.pdf",
+    "static/media/GSSOC certificate.pdf": "/My-Portfolio/static/media/GSSOC certificate.fd21df1d3e9907b7076c.pdf",
+    "index.html": "/My-Portfolio/index.html",
+    "main.402e73d1.css.map": "/My-Portfolio/static/css/main.402e73d1.css.map",
+    "main.f858fb70.js.map": "/My-Portfolio/static/js/main.f858fb70.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.402e73d1.css",
+    "static/js/main.f858fb70.js"
+  ]
+}
